@@ -12,7 +12,7 @@ Numbers to letters, letters to numbers. \
 It's just like an encryption but simple. \
 Not like the real encryption. \
 
-**Example**:
+**Example**: \
 0, 1, 2, 3, 4, 5 \
 A, B, C, D, E, F \
 
