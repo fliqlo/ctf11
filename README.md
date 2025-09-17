@@ -18,7 +18,7 @@ A, B, C, D, E, F
 
 1 = B \
 0 = A \
-3 = D \
+3 = D
 
 Encrypted: 1 0 3 \
 Not: B A D
