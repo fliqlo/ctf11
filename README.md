@@ -26,3 +26,4 @@ Flag: B A D
 Don't forget, we used zero as first!
 
 # Sumbit the flag here:
+https://forms.gle/PvDQPFJ66bCf5feA9
