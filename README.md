@@ -22,3 +22,5 @@ A, B, C, D, E, F
 
 Encrypted: 1 0 3 \
 Not: B A D
+
+Don't forget, we used zero as first!
