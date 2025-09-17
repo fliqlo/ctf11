@@ -24,3 +24,5 @@ Encrypted: 1 0 3 \
 Flag: B A D
 
 Don't forget, we used zero as first!
+
+# Sumbit the flag here:
