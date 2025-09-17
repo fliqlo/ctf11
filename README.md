@@ -14,7 +14,7 @@ Not like the real encryption. \
 
 **Example**: \
 0, 1, 2, 3, 4, 5 \
-A, B, C, D, E, F \
+A, B, C, D, E, F
 
 1 = B \
 0 = A \
