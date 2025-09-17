@@ -21,6 +21,6 @@ A, B, C, D, E, F
 3 = D
 
 Encrypted: 1 0 3 \
-Not: B A D
+Flag: B A D
 
 Don't forget, we used zero as first!
